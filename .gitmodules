@@ -1,3 +1,6 @@
 [submodule "Outros/Scratch/Anotacoes"]
 	path = Outros/Scratch/Anotacoes
 	url = https://github.com/GustavoTxFreitas/scratch-blocks-explained.git
+[submodule "Frameworks/React/conversor__monetario"]
+	path = Frameworks/React/conversor__monetario
+	url = https://github.com/GustavoTxFreitas/react-currency-converter.git
