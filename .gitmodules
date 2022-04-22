@@ -4,3 +4,6 @@
 [submodule "Frameworks/React/conversor__monetario"]
 	path = Frameworks/React/conversor__monetario
 	url = https://github.com/GustavoTxFreitas/react-currency-converter.git
+[submodule "Frameworks/React/conversor__binario_decimal"]
+	path = Frameworks/React/conversor__binario_decimal
+	url = https://github.com/GustavoTxFreitas/react-bin2dec
