@@ -7,3 +7,6 @@
 [submodule "Frameworks/React/conversor__binario_decimal"]
 	path = Frameworks/React/conversor__binario_decimal
 	url = https://github.com/GustavoTxFreitas/react-bin2dec
+[submodule "Frameworks/React/texto__criptografia"]
+	path = Frameworks/React/texto__criptografia
+	url = https://github.com/GustavoTxFreitas/react-cipher-playground.git
