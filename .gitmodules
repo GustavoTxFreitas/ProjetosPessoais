@@ -10,3 +10,6 @@
 [submodule "Frameworks/React/texto__criptografia"]
 	path = Frameworks/React/texto__criptografia
 	url = https://github.com/GustavoTxFreitas/react-cipher-playground.git
+[submodule "Frameworks/React/estilo__bordas_arredondadas"]
+	path = Frameworks/React/estilo__bordas_arredondadas
+	url = https://github.com/GustavoTxFreitas/react-border-radius.git
