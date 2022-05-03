@@ -13,3 +13,6 @@
 [submodule "Frameworks/React/estilo__bordas_arredondadas"]
 	path = Frameworks/React/estilo__bordas_arredondadas
 	url = https://github.com/GustavoTxFreitas/react-border-radius.git
+[submodule "Frameworks/React/texto__emojis"]
+	path = Frameworks/React/texto__emojis
+	url = https://github.com/GustavoTxFreitas/react-clipboard-emoji.git
